@@ -2,9 +2,7 @@
   "name": "landing-page",
   "title": "Landing Page",
   "author": "Cosmic JS",
-  "license": {
-    "type": "MIT"
-  },
+  "license": "CC-BY-3.0",
   "scripts": {
     "start": "NODE_ENV=production node app.js",
     "development": "NODE_ENV=development nodemon app.js"
